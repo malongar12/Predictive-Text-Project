@@ -12,7 +12,7 @@ input {
   }
   
   .search-container {
-  width: 400px;
+  width: 300px;
   position: relative;
   margin: 15px auto;
   }
@@ -24,7 +24,7 @@ input {
   }
   .search-container input {
   background: rgba(255, 255, 255, 0.2);
-  height: 60px;
+  height: 30px;
   padding: 0 10px;
   }
   .search-container .suggestions {
